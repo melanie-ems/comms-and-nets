@@ -46,3 +46,14 @@ Explain the following and describe situations where they might be used:
 - Be familiar with how wireless networks are secured.
 - Explain the wireless protocol Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) with and without Request to Send / Clear to Send (RTS/CTS).
 - Be familiar with the purpose of Service Set Identifier (SSID).
+
+---
+
+## Study Tips
+
+> [!TIP]
+> For more formatting tips and tricks, including how to create styled textboxes with rounded corners, see [markdown-tips.md](markdown-tips.md)
+
+<div style="border: 2px solid #2196F3; border-radius: 10px; padding: 15px; background-color: #E3F2FD; margin: 10px 0;">
+  <strong>🔑 Key Exam Tip:</strong> Focus on understanding the <em>why</em> behind each concept, not just memorizing definitions. Examiners often ask you to explain advantages, disadvantages, or compare different methods.
+</div>
