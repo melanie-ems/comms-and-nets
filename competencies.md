@@ -1,5 +1,12 @@
-
+<div style="border: 2px solid #2196F3; border-radius: 10px; padding: 15px; background-color: #E3F2FD; margin: 10px 0;"> <strong>🔑 Key Concept:</strong> Serial transmission sends data one bit at a time over a single channel, while parallel transmission sends multiple bits simultaneously over multiple channels. </div>
 This topic is about the exchange of data between devices, commonly referred to as nodes.
+
+<div style="border: 2px solid #FF9800; border-radius: 10px; padding: 15px; background-color: #FFF3E0; margin: 10px 0;"> <strong>⚠️ Important:</strong> CSMA/CA is used in WiFi networks to avoid collisions, unlike CSMA/CD used in wired Ethernet. </div>
+
+
+[!TIP] Use mnemonics to remember the OSI model layers: "Please Do Not Throw Sausage Pizza Away"
+
+<div style="border: 2px solid #FF9800; border-radius: 10px; padding: 15px; background-color: #FFF3E0; margin: 10px 0;"> <strong>⚠️ Important:</strong> CSMA/CA is used in WiFi networks to avoid collisions, unlike CSMA/CD used in wired Ethernet. </div>
 
 
 # Communication
