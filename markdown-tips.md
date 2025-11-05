@@ -4,6 +4,39 @@
 
 **Short answer:** Yes, but it depends on your markdown renderer.
 
+### 🔍 How to View This Guide
+
+**Important:** To see the textboxes with rounded corners in this document:
+
+1. **On GitHub:** Make sure you're viewing the **rendered** markdown (the default view when you click on the file)
+   - ✅ Correct: Click on `markdown-tips.md` in the file list
+   - ❌ Wrong: Don't click "Raw" or "Code" view
+   
+2. **The examples below will show:**
+   - Code blocks (for you to copy)
+   - Live rendered examples (showing how they look)
+
+If boxes aren't rendering, you're likely viewing the raw markdown source instead of the rendered HTML.
+
+### ✅ Quick Test - Can You See These Boxes?
+
+If you're viewing this correctly, you should see colored boxes below:
+
+> [!NOTE]
+> **Test Box 1:** If you can see this in a blue box with rounded corners, GitHub alerts are working! ✅
+
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f0f0f0; margin: 10px 0;">
+  <strong>Test Box 2:</strong> If you can see this in a green box with rounded corners, HTML+CSS is working! ✅
+</div>
+
+**What you should see:**
+- Test Box 1: Blue box with a lightbulb icon
+- Test Box 2: Green box with a light gray background
+
+**If you DON'T see styled boxes above**, you're viewing the raw markdown. Go back and click on the filename to view the rendered version.
+
+---
+
 Standard markdown doesn't support styled textboxes with rounded corners directly, but there are several approaches you can use:
 
 ### Method 1: HTML with Inline CSS (Most Control)
