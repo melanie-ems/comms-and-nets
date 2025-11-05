@@ -78,9 +78,9 @@ For a simpler approach that works everywhere, use blockquotes:
 
 ### Method 4: Code Blocks (No Rounded Corners, but Box-like)
 
-For a box-like appearance without styling:
+For a box-like appearance without styling, use code blocks with ASCII art:
 
-```markdown
+````markdown
 ```text
 ┌─────────────────────────────┐
 │ This is a text box using    │
@@ -88,7 +88,7 @@ For a box-like appearance without styling:
 │ characters                  │
 └─────────────────────────────┘
 ```
-```
+````
 
 **Rendered example:**
 
@@ -131,7 +131,7 @@ Then in your markdown:
 
 ## Examples for This Repository
 
-Since this is a GitHub repository, here are some practical examples:
+Since this is a GitHub repository, here are some practical examples. Each example uses inline CSS for easy copy-pasting - customize the colors and styling to suit your needs:
 
 ### Example 1: Key Concept Box
 
